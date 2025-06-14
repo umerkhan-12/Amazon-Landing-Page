@@ -16,6 +16,11 @@ This is a **responsive clone** of the Amazon homepage, built using only **HTML**
 - **CSS3 (Flexbox, Grid, Media Queries)**
 
 ---
+## SCREENSHOTS
+![alt text](<images/display pic.png>)
+![alt text](images/pic2.png)
+![alt text](<images/pic 3.png>)
+
 
 ## 🎯 Features
 
